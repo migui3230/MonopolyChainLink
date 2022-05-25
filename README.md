@@ -1,3 +1,7 @@
+# Property Mania
+
+Real estate investment game that allows users to purchase nfts for luxury properties around the united states
+
 # Advanced Sample Hardhat Project
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
